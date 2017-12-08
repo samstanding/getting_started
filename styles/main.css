@@ -1,0 +1,12 @@
+.content {
+  max-width: 500px;
+  margin: auto;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 135px;
+}
+p {
+  font-size: 12px;
+}
